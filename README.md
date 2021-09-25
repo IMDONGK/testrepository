@@ -27,8 +27,8 @@ Colombian Symbolism in _One Hundred Years of Solitude_
      * A11
      * A22
 
-#### 줄 바꿈할 때 __스페이스바 2번__
-#### 단락 구분할 때 __엔터키__
+#### 줄 바꿈할 때 _스페이스바 2번_
+#### 단락 구분할 때 _엔터키_
 
 
 
